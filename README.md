@@ -25,3 +25,36 @@ Started: June 2026
 * print()
 * input()
 * Basic Git and GitHub workflow
+
+
+## Day 2 Achievements
+
+* Topics to Learn
+* Variables
+* Strings
+* Integers
+* Floats
+* Booleans
+* User Input
+* Basic Arithmetic Operations
+
+## Practice Programs
+
+* Personal Profile Program
+* Simple Calculator
+
+## Files to Create
+
+* Day2/day2.py
+
+## Status
+
+* Day 2 Started
+
+* Variables Completed
+
+* User Input Completed
+
+* Calculator Program Completed
+
+* Code Pushed to GitHub
