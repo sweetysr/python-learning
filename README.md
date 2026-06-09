@@ -46,6 +46,11 @@ Started: June 2026
 ## Files to Create
 
 * Day2/day2.py
+* Day2/day2_2.py
+* Day2/day2_3.py
+* Day2/day2_4.py
+* Day2/calculater.py
+* Day2/personal_profile_project.py
 
 ## Status
 
