@@ -2,7 +2,7 @@
 
 Started: June 2026
 
-## Day 1 Achievements
+## --> Day 1 Achievements
 
 * Created a GitHub repository
 * Created Python files in VS Code
@@ -27,7 +27,7 @@ Started: June 2026
 * Basic Git and GitHub workflow
 
 
-## Day 2 Achievements
+## --> Day 2 Achievements
 
 * Topics to Learn
 * Variables
