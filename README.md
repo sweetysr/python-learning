@@ -63,3 +63,16 @@ Started: June 2026
 * Calculator Program Completed
 
 * Code Pushed to GitHub
+
+
+## Day 3
+- Learned Python data types
+- Practiced string (str), integer (int), float, and boolean (bool)
+- Used the type() function to identify data types
+- Created variables and printed their values
+- Uploaded Day3 exercises to GitHub
+- Learned basic Git workflow:
+  - git status
+  - git add
+  - git commit
+  - git push
