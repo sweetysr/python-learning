@@ -52,20 +52,9 @@ Started: June 2026
 * Day2/calculater.py
 * Day2/personal_profile_project.py
 
-## Status
-
-* Day 2 Started
-
-* Variables Completed
-
-* User Input Completed
-
-* Calculator Program Completed
-
-* Code Pushed to GitHub
 
 
-## Day 3
+## --> Day 3 Achievements
 - Learned Python data types
 - Practiced string (str), integer (int), float, and boolean (bool)
 - Used the type() function to identify data types
@@ -76,3 +65,10 @@ Started: June 2026
   - git add
   - git commit
   - git push
+
+  ## --> Day 4 Achievements
+- Learned user input with input()
+- Learned type conversion using int()
+- Performed arithmetic operations
+- Built a simple calculator
+- Calculated age from birth year
