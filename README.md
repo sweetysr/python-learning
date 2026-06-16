@@ -72,3 +72,14 @@ Started: June 2026
 - Performed arithmetic operations
 - Built a simple calculator
 - Calculated age from birth year
+
+  ## --> Day 5
+- Learned to use `if`, `elif`, and `else` statements
+- Wrote programs to:
+  - Check if a number is positive, negative, or zero
+  - Verify a password using conditional statements
+- Learned the difference between variables and strings
+- Understood why string values must be enclosed in quotes (`" "`)
+- Learned to use `.strip()` to remove extra spaces from user input
+- Used `repr()` to debug hidden spaces in input
+- Improved debugging skills by finding and fixing errors independently
