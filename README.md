@@ -83,3 +83,13 @@ Started: June 2026
 - Learned to use `.strip()` to remove extra spaces from user input
 - Used `repr()` to debug hidden spaces in input
 - Improved debugging skills by finding and fixing errors independently
+
+
+## Day 6
+- Learned for loops
+- Used range() function
+- Printed numbers using loops
+- Printed even numbers using loops
+- Built a multiplication table program
+- Practiced user input with loops
+- Learned how to repeat tasks efficiently
