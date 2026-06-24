@@ -85,7 +85,7 @@ Started: June 2026
 - Improved debugging skills by finding and fixing errors independently
 
 
-## Day 6
+## --> Day 6
 - Learned for loops
 - Used range() function
 - Printed numbers using loops
@@ -93,3 +93,12 @@ Started: June 2026
 - Built a multiplication table program
 - Practiced user input with loops
 - Learned how to repeat tasks efficiently
+
+
+## --> Day 7
+- Learned Python lists
+- Accessed list items using indexes
+- Used loops with lists
+- Printed values from lists
+- Practiced storing multiple values in one variable
+
