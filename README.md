@@ -66,14 +66,14 @@ Started: June 2026
   - git commit
   - git push
 
-  ## --> Day 4 Achievements
+## --> Day 4 Achievements
 - Learned user input with input()
 - Learned type conversion using int()
 - Performed arithmetic operations
 - Built a simple calculator
 - Calculated age from birth year
 
-  ## --> Day 5
+## --> Day 5
 - Learned to use `if`, `elif`, and `else` statements
 - Wrote programs to:
   - Check if a number is positive, negative, or zero
