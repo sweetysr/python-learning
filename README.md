@@ -95,10 +95,43 @@ Started: June 2026
 - Learned how to repeat tasks efficiently
 
 
-## --> Day 7
-- Learned Python lists
-- Accessed list items using indexes
-- Used loops with lists
-- Printed values from lists
-- Practiced storing multiple values in one variable
+## --> Day 7 - Lists
+
+### Topics Covered
+
+* Learned Python Lists
+* Stored multiple values in a single variable
+* Accessed list items using indexes
+* Used `for` loops with lists
+* Printed values from a list
+* Practiced using meaningful variable names
+
+### Exercises Completed
+
+* Created a list of fruits
+* Accessed list items using indexes
+* Printed numbers using a loop
+* Printed names using a loop
+* Printed marks using a loop
+* Printed cities using a loop
+* Printed products using a loop
+* Created and looped through a custom list of items
+
+### Key Learning
+
+A list stores multiple values, and a loop processes one item at a time.
+
+Example:
+
+```python
+things = ["thermalBottle", "phone", "glass", "doll"]
+
+for thing in things:
+    print(thing)
+```
+
+* `things` = collection of items
+* `thing` = one item from the collection
+
+This concept is the foundation for working with datasets in Data Analytics.
 
